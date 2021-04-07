@@ -15,7 +15,7 @@ public class Zadacha32 {
 
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
-		System.out.println("������� �������� �");
+		System.out.println("Введите величину А, в байтах");
 		A = sc.nextDouble();
 
 		kb = A / 1024;
